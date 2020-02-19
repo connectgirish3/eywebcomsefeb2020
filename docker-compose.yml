@@ -7,4 +7,4 @@ services:
    dockerfile: ashu.dockerfile
   container_name: jic1
   ports:
-   - "9000:80"
+   - "9030:80"
